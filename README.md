@@ -2,39 +2,6 @@
 
 ###
 
-<div align="center">
-
-  <!-- Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ZiadMostafa01&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&custom_title=My%20Status" 
-    height="150" 
-    alt="stats graph" 
-  />
-
-  <!-- Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ZiadMostafa01&layout=compact&langs_count=6&theme=dracula&hide_border=true" 
-    height="150" 
-    alt="languages graph"  
-  />
-
-  <!-- GIF -->
-  <img  
-    height="148" 
-    src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif"  
-    alt="coding gif"
-  />
-
-  <!-- Trophy -->
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=ZiadMostafa01&theme=dracula&no-frame=true&no-bg=true&title=Commits,Stars,PullRequest,Issues,Followers" 
-    height="150" 
-    alt="trophy graph"
-  />
-
-</div>
-
-
 ###
 
 ###
